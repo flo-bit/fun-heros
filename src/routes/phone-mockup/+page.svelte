@@ -1,5 +1,5 @@
 <script lang="ts">
-	import App from '$lib/PhoneMockup';
+	import PhoneMockupHero from '$lib/heros/PhoneMockup/PhoneMockup.svelte';
 </script>
 
-<App />
+<PhoneMockupHero />

@@ -1,5 +1,5 @@
 <script>
-	import Confetti from '$lib/Confetti';
+	import Confetti from '$lib/Confetti/Confetti.svelte';
 	import Preview from '$lib/Preview/Preview.svelte';
 </script>
 

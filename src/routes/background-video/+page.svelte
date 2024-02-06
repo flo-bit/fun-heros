@@ -1,5 +1,5 @@
 <script>
-	import Hero from '$lib/BackgroundVideo/';
+	import BackgroundVideoHero from '$lib/heros/BackgroundVideo/BackgroundVideo.svelte';
 </script>
 
-<Hero buttonHref="#" buttonLabel={'I will help save the world!'} />
+<BackgroundVideoHero buttonHref="#" buttonLabel={'I will help save the world!'} />
