@@ -7,7 +7,7 @@
 	// @ts-ignore
 	import light from './images/light.jpg?w=2048&format=webp';
 	// @ts-ignore
-	import dark_depth from './images/depth.png?w=1024&format=webp';
+	import dark_depth from './images/light-depth.png?w=1024&format=webp';
 	// @ts-ignore
 	import light_depth from './images/light-depth.png?w=1024&format=webp';
 	import { onMount } from 'svelte';

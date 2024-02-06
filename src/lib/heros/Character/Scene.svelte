@@ -13,4 +13,4 @@
 
 <Michelle rotation.y={-0.2}/>
 
-<Environment files="/fun-heros/env.hdr" isBackground={false} />
+<Environment files="/fun-heros/envs/env.hdr" isBackground={false} />

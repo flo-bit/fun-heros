@@ -1,49 +1,4 @@
 <script lang="ts">
-	let examples = [
-		{
-			name: 'Confetti',
-			href: '/confetti',
-			image: '/previews/confetti.png',
-			image_dark: '/previews/confetti-dark.png',
-			alt: 'Cool confetti effect'
-		},
-		{
-			name: 'Phone Mockup',
-			href: '/phone-mockup',
-			image: '/previews/phone.png',
-			image_dark: '/previews/phone-dark.png',
-			alt: 'Interactive 3D phone mockup'
-		},
-		{
-			name: 'Fluid Text',
-			href: '/fluid-text',
-			image: '/previews/fluidtext.png',
-			image_dark: '/previews/fluidtext-dark.png',
-			alt: 'Text that flows like water'
-		},
-		{
-			name: 'Fake 3D Image',
-			href: '/fake-3d-image',
-			image: '/previews/fake3d.png',
-			image_dark: '/previews/fake3d-dark.png',
-			alt: 'Fake 3D effect'
-		},
-		{
-			name: 'Background Video',
-			href: '/background-video',
-			image: '/previews/video.png',
-			image_dark: '/previews/video-dark.png',
-			alt: 'Background video with text overlay'
-		},
-		{
-			name: 'Animated Character',
-			href: '/character',
-			image: '/previews/character.png',
-			image_dark: '/previews/character-dark.png',
-			alt: 'Animated character'
-		}
-	];
-
 	let basicExamples = [{
 		name: 'Confetti',
 		href: '/confetti',
@@ -76,6 +31,18 @@
 		image: '/previews/fake3d.png',
 		image_dark: '/previews/fake3d-dark.png',
 		alt: 'Fake 3D effect'
+	}, {
+		name: 'Text 3D',
+		href: '/text-3d',
+		image: '/previews/text3d.png',
+		image_dark: '/previews/text3d-dark.png',
+		alt: '3D text effect'
+	}, {
+		name: 'Product Showcase',
+		href: '/product',
+		image: '/previews/product.png',
+		image_dark: '/previews/product-dark.png',
+		alt: '3D product showcase'
 	}];
 
 	const textExamples = [

@@ -106,4 +106,4 @@
 	</HTML>
 </T.Group>
 
-<Environment files="/fun-heros/env.hdr" isBackground={false} />
+<Environment files="/fun-heros/envs/env.hdr" isBackground={false} />
