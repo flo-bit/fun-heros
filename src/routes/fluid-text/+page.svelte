@@ -1,5 +1,5 @@
 <script lang="ts">
-	import FluidText from '$lib/FluidText';
+	import FluidTextHero from '$lib/heros/FluidText/FluidText.svelte';
 </script>
 
-<FluidText />
+<FluidTextHero />

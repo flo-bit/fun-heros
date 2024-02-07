@@ -1,5 +1,5 @@
 <script>
-	import Hero from '$lib/Fake3DImage/Hero.svelte';
+	import Fake3DImageHero from '$lib/heros/Fake3DImage/Hero.svelte';
 </script>
 
-<Hero />
+<Fake3DImageHero />
