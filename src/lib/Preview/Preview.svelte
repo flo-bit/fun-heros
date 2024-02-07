@@ -7,7 +7,7 @@
 		alt: 'Cool confetti effect'
 	}, {
 		name: 'Video',
-		href: '/video',
+		href: '/background-video',
 		image: '/previews/video.png',
 		image_dark: '/previews/video-dark.png',
 		alt: 'Background video with text overlay'
